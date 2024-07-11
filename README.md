@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Irtaza</h1>
 <h3 align="center">A VR/MR Unity Wiz</h3>
-
-![Banner](https://www.questglt.com/assets/images/metaverse-img/meta-webp/banner-bg.webp)
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=irtazadevs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
