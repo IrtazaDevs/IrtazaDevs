@@ -1,4 +1,4 @@
-![MasterHead](https://ideausher.com/wp-content/uploads/2022/12/Metaverse.webp)
+![MasterHead](https://www.questglt.com/assets/images/metaverse-img/meta-webp/banner-bg.webp)
 
 <h1 align="center">Hi 👋, I'm Irtaza</h1>
 <h3 align="center">A VR/MR Unity Wiz</h3>
