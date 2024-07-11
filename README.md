@@ -1,19 +1,19 @@
+![MasterHead](https://unity-connect-prd.storage.googleapis.com/20191206/learn/images/d52d387a-cd7d-4983-aace-bc04d12925d1_banner_2.png)
+
 <h1 align="center">Hi 👋, I'm Irtaza</h1>
 <h3 align="center">A VR/MR Unity Wiz</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/96/c6/2e/96c62e6662af988acd3668bf3c2b014f.gif">
+
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=irtazadevs&label=Profile%20views&color=0e75b6&style=flat" alt="irtazadevs" />
+  <img src="https://komarev.com/ghpvc/?username=irtazadevs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 📫 How to reach me: **irtazaumer1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/iamirtazaumer/" target="blank">
+  <a href="https://www.linkedin.com/in/iamirtazaumer/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
