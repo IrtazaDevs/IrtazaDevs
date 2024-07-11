@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=irtazadevs&label=Profile%20views&color=0e75b6&style=flat" alt="irtazadevs" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/96/c6/2e/96c62e6662af988acd3668bf3c2b014f.gif" alt="GIF" width="100%" />
-</p>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 📫 How to reach me: **irtazaumer1@gmail.com**
 
@@ -20,20 +20,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> 
-  </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> 
   </a> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irtazadevs&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
