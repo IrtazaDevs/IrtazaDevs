@@ -1,4 +1,4 @@
-![MasterHead](https://unity-connect-prd.storage.googleapis.com/20191206/learn/images/d52d387a-cd7d-4983-aace-bc04d12925d1_banner_2.png)
+![MasterHead](https://ideausher.com/wp-content/uploads/2022/12/Metaverse.webp)
 
 <h1 align="center">Hi 👋, I'm Irtaza</h1>
 <h3 align="center">A VR/MR Unity Wiz</h3>
