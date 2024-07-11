@@ -1,5 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/96/c6/2e/96c62e6662af988acd3668bf3c2b014f.gif)
-
+![MasterHead](https://www.questglt.com/assets/images/metaverse-img/meta-webp/banner-bg.webp)
 <h1 align="center">Hi 👋, I'm Irtaza</h1>
 <h3 align="center">A VR/MR Unity Wiz</h3>
 <p align="center"> 
