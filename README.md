@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Irtaza</h1>
 <h3 align="center">A VR/MR Unity Wiz</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/96/c6/2e/96c62e6662af988acd3668bf3c2b014f.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/96/c6/2e/96c62e6662af988acd3668bf3c2b014f.gif">
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=irtazadevs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
