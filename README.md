@@ -10,6 +10,7 @@ I got to make my dream a reality. Ready to make your dream yours?
 Skills: Unity / C# / Objective C / Python 
 
 - 📫 How to reach me: irtazaumer1@gmail.com
-Let's get in contact!
+
+- Let's get in contact!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamirtazaumer/)  
