@@ -1,4 +1,6 @@
-![Capture](https://github.com/user-attachments/assets/f59d445a-1c99-4329-a569-6f484bf309fa)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f59d445a-1c99-4329-a569-6f484bf309fa" alt="Capture" />
+</p>
 
 ### Hi there 👋, I'm Irtaza 
 #### A Unity VR/MR Experience Developer Wiz
