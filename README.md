@@ -1,4 +1,6 @@
-![MasterHead](https://www.questglt.com/assets/images/metaverse-img/meta-webp/banner-bg.webp)
+![Capture](https://github.com/user-attachments/assets/f59d445a-1c99-4329-a569-6f484bf309fa)
+
+
 ### Hi there 👋, im Irtaza 
 #### A Unity VR/MR Experience Developer Wiz
 
