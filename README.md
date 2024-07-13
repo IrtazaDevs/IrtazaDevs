@@ -1,8 +1,7 @@
-# Irtaza - Unity VR/MR Experience Developer Wiz
-
 ![Capture](https://github.com/user-attachments/assets/f59d445a-1c99-4329-a569-6f484bf309fa)
 
 ### Hi there 👋, I'm Irtaza 
+#### A Unity VR/MR Experience Developer Wiz
 
 I've loved gaming as far back as I can remember and was always intrigued by what goes on behind the curtains. This led to an early exploration in the field of 2D and 3D game development, which over time transitioned into my love for building VR and MR experiences. I got to make my dream a reality. Ready to make your dream yours?
 
