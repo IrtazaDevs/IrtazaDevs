@@ -15,6 +15,5 @@ I've loved gaming as far back as I can remember and was always intrigued by what
 
 ## Contact
 - 📫 How to reach me: [irtazaumer1@gmail.com](mailto:irtazaumer1@gmail.com)
-- Let's get in contact!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamirtazaumer/)
