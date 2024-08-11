@@ -46,10 +46,11 @@ Welcome to my GitHub profile! I am a seasoned ✅ VR and ✅ XR Developer with 2
 
 ## Contact
 
-- [Hire me on Upwork](https://www.upwork.com/freelancers/~0187dbb8242c4fb3d4)
-- [Mail me here](mailto:irtazaumer1@gmail.com)
-  <p align="center">
-  <a href="https://pk.linkedin.com/in/irtazau?trk=profile-badge" class="badge-base__link LI-simple-link">
+- <a href="https://www.upwork.com/freelancers/~0187dbb8242c4fb3d4" target="_blank">Hire me on Upwork</a>
+- <a href="mailto:irtazaumer1@gmail.com" target="_blank">Mail me here</a>
+
+<p align="center">
+  <a href="https://pk.linkedin.com/in/irtazau?trk=profile-badge" class="badge-base__link LI-simple-link" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
