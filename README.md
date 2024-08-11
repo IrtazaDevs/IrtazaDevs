@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/78a84957-f216-4dce-86a7-19c64aee3067" alt="digital twins VR" width="600">
 </p>
 
-# Irtaza's VR & XR Development Portfolio
+# Unity VR/ AR Developer || Oculus Quest || Game Developer
 
 ## Introduction
 
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I am a seasoned ✅ VR and ✅ XR Developer with 2
 ## Contact
 
 - [Hire me on Upwork](https://www.upwork.com/freelancers/~0187dbb8242c4fb3d4)
-- 📫 [irtazaumer1@gmail.com](mailto:irtazaumer1@gmail.com)
+📫 [irtazaumer1@gmail.com](mailto:irtazaumer1@gmail.com)
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamirtazaumer/)
 
 Feel free to explore my repositories and check out some of the exciting projects I've been working on. If you have any questions or collaboration opportunities, don't hesitate to reach out!
