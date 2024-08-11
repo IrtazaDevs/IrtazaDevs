@@ -51,3 +51,9 @@ Welcome to my GitHub profile! I am a seasoned ✅ VR and ✅ XR Developer with 2
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamirtazaumer/)
 
 Feel free to explore my repositories and check out some of the exciting projects I've been working on. If you have any questions or collaboration opportunities, don't hesitate to reach out!
+
+<p align="center">
+  <a href="https://pk.linkedin.com/in/irtazau?trk=profile-badge" class="badge-base__link LI-simple-link">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</p>
