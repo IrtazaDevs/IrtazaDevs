@@ -21,6 +21,8 @@ Welcome to my GitHub profile! I am a seasoned ✅ VR and ✅ XR Developer with 2
 - **OVR SDK**
 - **Meta XR**
 - **Cesium**
+- **Photon**
+- **Netcode**
 
 ## Skills & Expertise
 
