@@ -4,8 +4,6 @@
 
 # Unity VR/ AR Developer || Oculus Quest || Game Developer
 
-## Introduction
-
 Welcome to my GitHub profile! I am a seasoned ✅ VR and ✅ XR Developer with 2+ years in the field. My expertise lies in ✅Unity (C#) and other advanced frameworks to create immersive VR, MR, and XR experiences.
 
 ## Platforms & Hardware
