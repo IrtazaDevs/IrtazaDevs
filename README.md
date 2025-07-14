@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/78a84957-f216-4dce-86a7-19c64aee3067" alt="digital twins VR" width="300">
+  <a href="https://www.youtube.com/watch?v=dPaUpedZrDM" target="_blank">
+    <img src="https://img.youtube.com/vi/dPaUpedZrDM/maxresdefault.jpg" alt="Digital Twins VR" width="600">
+  </a>
 </p>
 
 # Unity VR/ AR Developer || Oculus Quest || Game Developer
